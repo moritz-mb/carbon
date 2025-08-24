@@ -146,7 +146,7 @@ solana-client = "~2.2"
 solana-clock = "~2.2"
 solana-commitment-config = "~2.2"
 solana-entry = "~2.2"
-solana-hash = "~2.2"
+solana-hash = "~2.3"
 solana-instruction = { version = "~2.2", default-features = false }
 solana-message = "~2.2"
 solana-native-token = "~2.2"
