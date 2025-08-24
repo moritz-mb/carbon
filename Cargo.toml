@@ -153,7 +153,7 @@ solana-native-token = "~2.2"
 solana-program = "~2.2"
 solana-program-pack = "~2.2"
 solana-pubkey = { version = "~2.4", features = ["serde", "borsh", "curve25519"] }
-solana-signature = { version = "~2.2", features = ["rand"] }
+solana-signature = { version = "~2.3", features = ["rand"] }
 solana-transaction = "~2.2"
 solana-transaction-context = "~2.2"
 solana-transaction-status = "~2.2"
