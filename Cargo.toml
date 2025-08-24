@@ -148,7 +148,7 @@ solana-commitment-config = "~2.2"
 solana-entry = "~2.2"
 solana-hash = "~2.3"
 solana-instruction = { version = "~2.2", default-features = false }
-solana-message = "~2.2"
+solana-message = "~2.4"
 solana-native-token = "~2.2"
 solana-program = "~2.2"
 solana-program-pack = "~2.2"
