@@ -351,6 +351,7 @@ pub fn transaction_metadata_from_original_meta(
     Ok(TransactionStatusMeta {
         status: meta_original.status,
         fee: meta_original.fee,
+        cost_units: None,
         pre_balances: meta_original.pre_balances,
         post_balances: meta_original.post_balances,
         inner_instructions: Some(
