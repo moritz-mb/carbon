@@ -155,7 +155,7 @@ solana-program-pack = "~2.2"
 solana-pubkey = { version = "2.4.0", features = ["serde", "borsh", "curve25519"] }
 solana-signature = { version = "2.3.0", features = ["rand"] }
 solana-transaction = "2.2.3"
-solana-transaction-context = "~2.2"
+solana-transaction-context = "~2.3"
 solana-transaction-status = "2.3.7"
 spl-memo = "5.0.0"
 spl-token = "6.0.0"
