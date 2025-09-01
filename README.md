@@ -239,6 +239,7 @@ Decoders for most popular Solana programs are published and maintained:
 | `carbon-drift-v2-decoder`                  | Drift V2 Program Decoder                  | dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH  |
 | `carbon-fluxbeam-decoder`                  | Fluxbeam Program Decoder                  | FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X |
 | `carbon-gavel-decoder`                     | Gavel Pool Decoder                        | srAMMzfVHVAtgSJc8iH6CfKzuWuUTzLHVCE81QU1rgi  |
+| `carbon-heaven-decoder`                    | Heaven Program Decoder                    | HEAVENoP2qxoeuF8Dj2oT1GHEnu49U5mJYkdeC8BAX2o  |
 | `carbon-jupiter-dca-decoder`               | Jupiter DCA Program Decoder               | DCA265Vj8a9CEuX1eb1LWRnDT7uK6q1xMipnNyatn23M |
 | `carbon-jupiter-limit-order-decoder`       | Jupiter Limit Order Program Decoder       | jupoNjAxXgZ4rjzxzPMP4oxduvQsQtZzyknqvzYNrNu  |
 | `carbon-jupiter-limit-order-2-decoder`     | Jupiter Limit Order 2 Program Decoder     | j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X  |
@@ -255,6 +256,7 @@ Decoders for most popular Solana programs are published and maintained:
 | `carbon-meteora-damm-v2-decoder`           | Meteora DAMM V2 Program Decoder           | cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG  |
 | `carbon-meteora-dlmm-decoder`              | Meteora DLMM Program Decoder              | LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo  |
 | `carbon-meteora-pools-decoder`             | Meteora Pools Program Decoder             | Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB |
+| `carbon-meteora-vault-decoder`             | Meteora Vault Program Decoder             | 24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi |
 | `carbon-moonshot-decoder`                  | Moonshot Program Decoder                  | MoonCVVNZFSYkqNXP6bxHLPL6QQJiMagDL3qcqUQTrG  |
 | `carbon-mpl-core-decoder`                  | MPL Core Program Decoder                  | CoREENxT6tW1HoK8ypY1SxRMZTcVPm7R94rH4PZNhX7d |
 | `carbon-mpl-token-metadata-decoder`        | MPL Token Metadata Program Decoder        | metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s  |
@@ -279,6 +281,7 @@ Decoders for most popular Solana programs are published and maintained:
 | `carbon-system-program-decoder`            | System Program Decoder                    | 11111111111111111111111111111111             |
 | `carbon-token-2022-decoder`                | Token 2022 Program Decoder                | TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb  |
 | `carbon-token-program-decoder`             | Token Program Decoder                     | TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA  |
+| `carbon-vertigo-decoder`                   | Vertigo Program Decoder                   | vrTGoBuy5rYSxAfV3jaRJWHH6nN9WK4NRExGxsk1bCJ  |
 | `carbon-virtual-curve-decoder`             | Meteora Virtual Curve Program Decoder     | dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN  |
 | `carbon-virtuals-decoder`                  | Virtuals Program Decoder                  | 5U3EU2ubXtK84QcRjWVmYt9RaDyA8gKxdUrPFXmZyaki |
 | `carbon-wavebreak-decoder`                 | Wavebreak Program Decoder                 | waveQX2yP3H1pVU8djGvEHmYg8uamQ84AuyGtpsrXTF  |
